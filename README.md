@@ -1,4 +1,10 @@
-# React Calculator (Meta Full Stack Developer: Front-End & Back-End from Scratch Specialization Peer-Graded Assignment)
+# React Calculator: Meta Full Stack Developer: Front-End & Back-End from Scratch Specialization Peer-Graded Assignment
+
+
+![Calculator screenshot](Calculator1.png)
+
+##
+## Description 
 
 This project is a brief assignment to build a simple calculator UI in React, practicing component structure, state handling, and basic interaction. It is from the Coursera Meta Full Stack Developer: Front-End & Back-End from Scratch Specializationn.
 
