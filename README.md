@@ -1,4 +1,4 @@
-# React Calculator: Meta Full Stack Developer: Front-End & Back-End from Scratch Specialization Peer-Graded Assignment
+# React Calculator Meta Peer-Graded Assignment
 
 
 ![Calculator screenshot](Calculator1.png)
